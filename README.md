@@ -61,6 +61,13 @@ Algoritma utama yang digunakan:
 
 ## 🚀 Cara Menjalankan
 
-1. Buka file notebook [`Copy_of_Tubes_ML.ipynb`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/Copy_of_Tubes_ML.ipynb) di Jupyter Notebook / Google Colab.
+1. Buka file notebook [`Copy_of_Tubes_ML.ipynb`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/Copy_of_Tubes_ML.ipynb) di Jupyter Notebook atau Google Colab.
 2. Pastikan file [`marketing_campaign.csv`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/marketing_campaign.csv) tersedia dalam direktori kerja.
 3. Jalankan setiap cell secara berurutan.
+
+## 📦 File Tambahan
+
+1. 💻 Kaggle Notebook: [Customer Segmentation - Clustering](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/input)  
+2. ☁️ Google Colab: [Link Colab](https://colab.research.google.com/drive/1fH8XSXyUS_8t71VUiP7RHPAcswP1QC6Z#scrollTo=jaglmAG8w6j7)  
+3. 📄 Laporan: *(segera ditambahkan)*  
+4. 🎥 Link YouTube: *(segera ditambahkan)*  
