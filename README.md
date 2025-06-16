@@ -2,7 +2,10 @@
 
 Repositori ini dibuat untuk memenuhi Tugas Besar mata kuliah **Machine Learning**. Proyek ini bertujuan untuk melakukan segmentasi pelanggan menggunakan algoritma **K-Means Clustering** berdasarkan atribut perilaku pelanggan.
 
-📄 [Lihat README di GitHub](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/README.md)
+Kelompok 3 dengan anggota sebagai berikut : 
+1. AURA AULIA A.H.P 		(1206230003)
+2. JONATHAN MANGIRING P	(1206230051)
+3. NOVITA CHELSEA LODAR	(1206230052)
 
 ## 📁 Struktur Repository
 
