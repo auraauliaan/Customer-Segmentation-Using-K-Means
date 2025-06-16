@@ -10,7 +10,7 @@ Kelompok 3 dengan anggota sebagai berikut :
 ## 📁 Struktur Repository
 
 - [`Copy_of_Tubes_ML.ipynb`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/Copy_of_Tubes_ML.ipynb) – Notebook berisi implementasi K-Means Clustering.
-- [`marketing_campaign.csv`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/marketing_campaign.csv) – Dataset yang digunakan untuk analisis.
+- [`marketing_campaign.csv`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/marketing_campaign.csv) – Dataset yang digunakan untuk analisis, berasal dari [Kaggle: Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
 - [`README.md`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/README.md) – Dokumentasi proyek.
 
 ## 📊 Deskripsi Dataset
@@ -41,8 +41,8 @@ Dataset berisi informasi demografi dan perilaku pembelian pelanggan. Berikut pen
 | `AcceptedCmp3`         | 1 jika pelanggan menerima tawaran kampanye ke-3, 0 jika tidak                 |
 | `AcceptedCmp4`         | 1 jika pelanggan menerima tawaran kampanye ke-4, 0 jika tidak                 |
 | `AcceptedCmp5`         | 1 jika pelanggan menerima tawaran kampanye ke-5, 0 jika tidak                 |
-| `Response`             | 1 jika pelanggan menerima tawaran kampanye terakhir, 0 jika tidak            |
-| `NumWebPurchases`      | Jumlah pembelian melalui situs web                                           |
+| `Response`             | 1 jika pelanggan menerima tawaran kampanye terakhir, 0 jika tidak             |
+| `NumWebPurchases`      | Jumlah pembelian melalui situs web                                            |
 | `NumCatalogPurchases`  | Jumlah pembelian menggunakan katalog                                          |
 | `NumStorePurchases`    | Jumlah pembelian langsung di toko                                             |
 | `NumWebVisitsMonth`    | Jumlah kunjungan ke situs dalam sebulan terakhir                              |
@@ -70,7 +70,7 @@ Algoritma utama yang digunakan:
 
 ## 📦 File Tambahan
 
-1. 💻 Kaggle Notebook: [Customer Segmentation - Clustering](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/input)  
+1. 💻 Kaggle Dataset: [Customer Personality Analysis – by Imakash3011](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)  
 2. ☁️ Google Colab: [Link Colab](https://colab.research.google.com/drive/1fH8XSXyUS_8t71VUiP7RHPAcswP1QC6Z#scrollTo=jaglmAG8w6j7)  
-3. 📄 Laporan: *(segera ditambahkan)*  
-4. 🎥 Link YouTube: *(segera ditambahkan)*  
+3. 📄 Laporan: *([LAPORAN ML Kelompok 3](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/LAPORAN%20ML%20Kelompok%203.pdf))*  
+4. 🎥 Link YouTube: [Youtube](https://youtu.be/vfCgZmcntyU?si=dvdAsgwybFcMJd4v)
