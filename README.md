@@ -2,11 +2,13 @@
 
 Repositori ini dibuat untuk memenuhi Tugas Besar mata kuliah **Machine Learning**. Proyek ini bertujuan untuk melakukan segmentasi pelanggan menggunakan algoritma **K-Means Clustering** berdasarkan atribut perilaku pelanggan.
 
+📄 [Lihat README di GitHub](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/README.md)
+
 ## 📁 Struktur Repository
 
 - [`Copy_of_Tubes_ML.ipynb`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/Copy_of_Tubes_ML.ipynb) – Notebook berisi implementasi K-Means Clustering.
 - [`marketing_campaign.csv`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/marketing_campaign.csv) – Dataset yang digunakan untuk analisis.
-- `README.md` – Dokumentasi proyek.
+- [`README.md`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/README.md) – Dokumentasi proyek.
 
 ## 📊 Deskripsi Dataset
 
@@ -60,5 +62,5 @@ Algoritma utama yang digunakan:
 ## 🚀 Cara Menjalankan
 
 1. Buka file notebook [`Copy_of_Tubes_ML.ipynb`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/Copy_of_Tubes_ML.ipynb) di Jupyter Notebook / Google Colab.
-2. Pastikan file `marketing_campaign.csv` tersedia dalam direktori kerja.
+2. Pastikan file [`marketing_campaign.csv`](https://github.com/auraauliaan/Customer-Segmentation-Using-K-Means/blob/main/marketing_campaign.csv) tersedia dalam direktori kerja.
 3. Jalankan setiap cell secara berurutan.
